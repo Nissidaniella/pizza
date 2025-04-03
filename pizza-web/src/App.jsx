@@ -8,8 +8,7 @@ import Contact from './Pages/Contact'
 function App() {
   return (
     <div>
-     nisssi pizza cheesy good
-     <Navbar/>
+     {/* <Navbar/> */}
       <Home/>
       <Menu/>
       <Contact/>
